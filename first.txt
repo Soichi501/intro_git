@@ -1,2 +1,4 @@
 こんにちは
 今日からGit,GitHubの知識の習得をしていきます。
+・git add
+・git commit
